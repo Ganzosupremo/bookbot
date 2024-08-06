@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# My ignores
+books/
+
 # C extensions
 *.so
 
